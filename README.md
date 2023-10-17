@@ -24,6 +24,8 @@ Personal HomePage：(https://yangzhouzhou.github.io/)
 
 👈 **Follow me on the left（点击左侧关注我）**
 
+<img align="right" alt="img" src="lufei.jpg" width="50%" height="auto" />
+
 #### 🖥️ Programming languages and tools: 
 
 <p>
