@@ -22,7 +22,7 @@ Personal HomePage：(https://yangzhouzhou.github.io/)
 
 <h2></h2>
 
-<img align="right" alt="img" src="image.png" width="60%" height="auto" />
+<img align="right" alt="img" src="images.png" width="50%" height="auto" />
 
 👈 Follow me on the left（点击左侧关注我）
 
@@ -54,7 +54,16 @@ Personal HomePage：(https://yangzhouzhou.github.io/)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-![Yangzhouzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yangzhouzhou&count_private=true&show_icons=true&theme=dracula)
+<h2></h2>
+
+<a href="https://github.com/Yangzhouzhou/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Yangzhouzhou/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+![Yangzhouzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yangzhouzhou&count_private=true&show_icons=true&theme=dracula&layout=pie)
 
 <!--
 
