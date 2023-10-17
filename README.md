@@ -3,21 +3,38 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yangzhouzhou)
 
-- 🔭 I’m currently working on AIRCAS,Beijing,China
+🔭 I’m currently working on AIRCAS,Beijing,China
 
 
 #### 🌱 Field of research: 
-- - LiDAR Data Process.
-- - Point cloud processing software development
-- - Deep-Learning on 3d point cloud.
-- - Semantic Segmentation.
+- LiDAR Data Process.
+- Point cloud processing software development
+- Deep-Learning on 3d point cloud.
+- Semantic Segmentation.
 
 #### ⚡ Now focus on:
-- - Point Cloud Software development in C++.
-  - Single-Tree segmentation and Parameter Extraction.
-  - Unsupervised Semantic Segmentation.
- 
+- Point Cloud Software development in C++.
+- Single-Tree segmentation and Parameter Extraction.
+- - Unsupervised Semantic Segmentation.
 
+<img align="right" alt="img" src="logo.jpg" width="50%" height="auto" />
+
+#### :computer: Programming languages and tools: 
+
+<p>
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=hewie&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false" width="50%" height="auto" >
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" bottom="3px" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<br /><code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/d3js/d3js-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 
 ![Yangzhouzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yangzhouzhou&count_private=true&show_icons=true&theme=dracula)
 
