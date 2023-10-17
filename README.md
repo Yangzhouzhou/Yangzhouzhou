@@ -17,13 +17,11 @@
 - Single-Tree segmentation and Parameter Extraction.
 - - Unsupervised Semantic Segmentation.
 
-<img align="right" alt="img" src="logo.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="death.png" width="50%" height="auto" />
 
 #### :computer: Programming languages and tools: 
 
 <p>
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=hewie&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false" width="50%" height="auto" >
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" bottom="3px" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
