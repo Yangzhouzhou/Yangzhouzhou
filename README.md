@@ -21,6 +21,9 @@ Personal HomePage：(https://yangzhouzhou.github.io/)
 - Unsupervised Semantic Segmentation.
 
 <h2></h2>
+
+<img align="right" alt="img" src="image.png" width="60%" height="auto" />
+
 👈 Follow me on the left（点击左侧关注我）
 
 #### 🖥️ Programming languages and tools: 
