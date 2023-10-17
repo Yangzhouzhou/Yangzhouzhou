@@ -7,7 +7,7 @@
 Personal HomePage：(https://yangzhouzhou.github.io/)
 <p>
 <p>
-<img align="right" alt="img" src="death.png" width="60%" height="auto" />
+<img align="right" alt="img" src="death.png" width="50%" height="auto" />
 
 #### 🌱 Field of research: 
 - LiDAR Data Process.
