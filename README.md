@@ -2,6 +2,7 @@
 ## This is Allen(ZhouYang)!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yangzhouzhou)
+[![visitor](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/Yangzhouzhou-github-readme)](https://github.com/Yangzhouzhou)
 
 🔭 I’m currently working on AIRCAS,Beijing,China.
 Personal HomePage：(https://yangzhouzhou.github.io/)
