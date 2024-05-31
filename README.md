@@ -11,9 +11,8 @@ Personal HomePage：(https://yangzhouzhou.github.io/)
 <img align="right" alt="img" src="death.png" width="50%" height="auto" />
 
 #### 🌱 Field of research: 
-- LiDAR Data Process.
 - Point cloud processing software development
-- Deep-Learning on 3d point cloud.
+- Deep-Learning on 3D point cloud.
 - Semantic Segmentation.
 
 #### ⚡ Now focus on:
